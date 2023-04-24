@@ -1,0 +1,10 @@
+.watchContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.watch{
+    width: 33%;
+}
